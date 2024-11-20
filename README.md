@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-![Home page](images/sample.png)
+![Home page](Screenshot 2024-11-20 205355.png)
