@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-![Home page](Screenshot 2024-11-20 205355.png)
+![Home page](https://github.com/Lithikarajkumar/InsuranceSystem/blob/main/Screenshot%202024-11-20%20205355.png)
